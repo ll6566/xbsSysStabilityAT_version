@@ -1,0 +1,2 @@
+v2.4.1=https://gitlab.gz.cvte.cn/seedpacesystset/sysautotest/-/archive/v2.4.1/sysautotest-v2.4.1.zip
+v2.4.0=https://gitlab.gz.cvte.cn/seedpacesystset/sysautotest/-/archive/v2.4.0/sysautotest-v2.4.0.zip
